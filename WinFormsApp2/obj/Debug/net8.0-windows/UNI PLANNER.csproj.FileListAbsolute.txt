@@ -1,0 +1,19 @@
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form2.resources
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.csproj.GenerateResource.cache
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.AssemblyInfoInputs.cache
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.AssemblyInfo.cs
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.csproj.CoreCompileInputs.cache
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\UNI PLANNER.exe
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\UNI PLANNER.deps.json
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\UNI PLANNER.runtimeconfig.json
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\UNI PLANNER.dll
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\UNI PLANNER.pdb
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI__PLANNER.Properties.Resources.resources
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.dll
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\UNI PLANNER.dll
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.pdb
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI PLANNER.genruntimeconfig.cache
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\UNI PLANNER.dll
+D:\learn c##\ConsoleApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\UNI__PLANNER.AddTaskForm.resources
